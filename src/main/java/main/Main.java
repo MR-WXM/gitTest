@@ -7,5 +7,6 @@ public class Main {
         System.out.println("hello gitlab");
         System.out.println("hello gitee");
         System.out.println("hello master");
+        System.out.println("hello hotFix");
     }
 }
